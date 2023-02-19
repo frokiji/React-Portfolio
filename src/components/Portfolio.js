@@ -8,7 +8,7 @@ export default class Porfolio extends Component {
     let resumeData = this.props.resumeData;
     return (
       
-      <section>
+      <section id="portfolio">
         <div>
   <h1 className='aitext'>AI Chat</h1>
 </div>
